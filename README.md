@@ -6,7 +6,7 @@ python command line tool to decrypt and decompile bytecode, compatible with pyth
 
 ## Usage
 
-'''
+```
 
    python decrypter.py yourfile.pyc
-'''
+```
